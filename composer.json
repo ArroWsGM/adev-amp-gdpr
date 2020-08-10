@@ -1,0 +1,19 @@
+{
+    "name": "arrowsgm/adev-amp-gdpr",
+    "description": "Wordpress plugin for adding GDPR alert to AMP.",
+    "type": "library",
+    "license": "GPL v3.0",
+    "version": "v0.1.0",
+    "authors": [
+        {
+            "name": "Eugene Vit",
+            "homepage": "https://arrows-dev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Arrowsgm\\AmpGDPR\\": "src/"
+        }
+    }
+}
