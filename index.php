@@ -2,7 +2,7 @@
 /*
 Plugin Name: Adev AMP GDPR
 Description: Wordpress plugin for adding GDPR alerts to AMP.
-Version: 0.1.0
+Version: 0.1.1
 Author: ArroWs Development
 Author URI: https://arrows-dev.com
 Text Domain: adev-amp-gdpr

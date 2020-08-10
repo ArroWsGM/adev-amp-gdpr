@@ -3,7 +3,7 @@
     "description": "Wordpress plugin for adding GDPR alert to AMP.",
     "type": "library",
     "license": "GPL v3.0",
-    "version": "v0.1.0",
+    "version": "v0.1.1",
     "authors": [
         {
             "name": "Eugene Vit",
